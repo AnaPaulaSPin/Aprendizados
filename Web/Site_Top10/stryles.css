@@ -1,0 +1,44 @@
+/* Centraliza o texto e define cor e fundo translúcido */
+.center {
+    text-align: center;
+    color: #1c1833;
+    background-color: rgba(255, 223, 255, 0.7);
+}
+
+/* Define o estilo da logo: fundo rosa, centralização e tamanho de fonte maior */
+.logo {
+    background-color: pink;
+    text-align: center;
+    font-size: 40px;
+}
+
+/* Define bordas arredondadas para todas as imagens */
+img {
+    border-radius: 25px;
+}
+
+/* Cor de fundo para a página inteira */
+html {
+    background-color: rgba(144, 135, 244, 0.8);
+}
+
+/* Estilo dos parágrafos: define a fonte e o tamanho */
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+/* Tamanho da fonte para o título principal */
+h1 {
+    font-size: 50px;
+}
+
+/* Tamanho da fonte para subtítulos */
+h2 {
+    font-size: 30px;
+}
+
+/* Margem ao redor dos elementos com a classe .espass */
+.espass {
+    margin: 15px;
+}
